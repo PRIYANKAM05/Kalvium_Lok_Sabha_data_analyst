@@ -1,4 +1,5 @@
 # Kalvium_Lok_Sabha_data_analyst
+## Steps
 -[Scrape the information](https://results.eci.gov.in )
 -[Dataset](https://drive.google.com/drive/u/1/folders/1OzvOjNpNcWlRIX_CbvtQKjuP9JW6yzvA)
 
@@ -24,10 +25,8 @@ This project involves scraping data from the official Lok Sabha election results
 
 ## How to Use
 
-1. **Data Collection**: Run the `scrape_data.py` script to collect the latest election results data.
-2. **Analysis**: Use the `analyze_data.py` script to generate the key insights report.
-3. **Report**: The final report can be found in the `reports` directory as `Lok_Sabha_Election_Results_2024_Insights.pdf`.
+1. **Data Collection**: Download the datasets from the drive link.
+2. **Analysis**: use Qlik Sense cloud
+3. **Report**: The final report can be found in the `reports` directory as `Kalvium insights.pdf`.
 
-## Contributing
 
-Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
